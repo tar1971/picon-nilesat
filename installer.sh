@@ -1,5 +1,3 @@
-echo
-
 #!/bin/sh # 
  # # Command: wget https://raw.githubusercontent.com/tar1971/picon-nilesat/main/installer.sh -qO - | /bin/sh # # ########################################### ########################################### 
 #!/bin/sh 
@@ -62,6 +60,7 @@ sleep 4;
 echo "**********************************************************************************"
 wait
 exit 0
+
 
 
 
